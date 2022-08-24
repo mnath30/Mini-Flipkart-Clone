@@ -1,0 +1,27 @@
+.heading {
+  align-items: center;
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: center;
+  padding: 0.2rem 1rem;
+}
+
+.heading__container {
+  display: flex;
+  width: 90%;
+}
+
+.heading__brand {
+  margin: 0.4rem;
+}
+
+.heading__input {
+  background-color: white;
+  margin: 0 0.4rem;
+  padding: 0;
+  width: 50%;
+}
+
+.heading__btn_section {
+  margin-left: auto;
+}

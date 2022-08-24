@@ -1,0 +1,36 @@
+:root {
+  --primary-color: #2874f0;
+  --grey: #cccccc;
+  --black: #000000;
+  --white: #ffffff;
+}
+
+.App {
+  text-align: center;
+}
+
+button {
+  background-color: none;
+  border: 1px solid var(--grey);
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: var(--primary-color);
+}
+
+.align-left {
+  text-align: left;
+  margin: 0.4rem 0.8rem;
+}
+
+h4 {
+  margin: 0.4rem;
+}
+
+.subheadings {
+  margin-top: 0.8rem;
+}

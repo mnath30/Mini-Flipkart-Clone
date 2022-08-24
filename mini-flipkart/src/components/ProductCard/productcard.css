@@ -1,0 +1,26 @@
+.card__container {
+  margin: 0.4rem;
+  width: 14rem;
+  height: 24rem;
+  border: 1px solid var(--grey);
+  border-radius: 5px;
+}
+
+.card__container_img {
+  height: 70%;
+}
+
+.card__img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+.product__brand,
+.product__name,
+.product__size,
+.product__price {
+  margin: 0.2rem;
+  text-align: left;
+  padding-left: 0.4rem;
+}

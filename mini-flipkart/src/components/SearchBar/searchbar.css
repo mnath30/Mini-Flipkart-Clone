@@ -1,0 +1,21 @@
+.search__container {
+  border: 1px solid var(--black);
+  border-radius: 5px;
+  height: 2rem;
+  background-color: var(--white);
+  width: 50%;
+  padding: 0.2rem;
+}
+
+.search__input {
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  line-height: 2rem;
+  width: 80%;
+}
+
+.search__btn {
+  background-color: inherit;
+  border: none;
+}
